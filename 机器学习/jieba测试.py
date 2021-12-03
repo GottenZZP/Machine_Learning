@@ -32,3 +32,4 @@ def loadDataSet():
 dataSet = loadDataSet()
 
 print(dataSet)
+print("aaa")
